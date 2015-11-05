@@ -1,0 +1,1 @@
+export JAVA_OPTS="-DPROPERTIES_ENV=local"
